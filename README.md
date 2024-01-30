@@ -24,7 +24,7 @@ Create operation:
     }
 
 Read operation:
-  - Open post man select Get method and enter this url
+  - Open postman select Get method and enter this url
   - http://localhost:3000/user/list
 
 Update operation:
